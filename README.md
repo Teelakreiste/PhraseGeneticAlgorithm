@@ -1,4 +1,5 @@
 # Genetic Algorithm - Phrase Evolution
+Code was based on and adapted from [Nature of Code](https://natureofcode.com/book/chapter-9-the-evolution-of-code/).
 
 This code implements a Genetic Algorithm to evolve a population of individuals to match a target phrase. The algorithm mimics the process of natural selection and genetic inheritance to find the best solution.
 
